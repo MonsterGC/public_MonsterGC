@@ -8,6 +8,14 @@
  - Web端管理框架
 
 ##### 技术框架
-正在选型ing...
+###### PC端
+- Electron
+- Nodejs(Express)
+- Redis
+- React
+- Ant Design
+- PM2
+- WebPack
+- nginx
 
 
